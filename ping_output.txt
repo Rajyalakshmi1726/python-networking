@@ -1,0 +1,3 @@
+127.0.0.1 is up 
+google.com is up 
+122.0.0.1 link is down
